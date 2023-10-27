@@ -10,7 +10,7 @@
 }
 
 :root {
-  --text-yellow: #ff9807;
+  --text-yellow: #d9d61b;
   --text-grey: #7e7e7e;
   --text-red: #dc3545;
   --text-blue: #0d6efd;
@@ -66,9 +66,9 @@ nav.sticky {
 
 nav .nav-logo a {
   font-family: "Dancing Script", cursive;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 600;
-  color: var(--text-yellow);
+  color: #b9247b;
   letter-spacing: 1px;
 }
 
@@ -141,6 +141,7 @@ nav .nav-menu ul li a.nav-contact:hover {
   justify-content: space-between;
   align-items: center;
   padding: 0 10%;
+  color: #6f7372;
 }
 
 .hero-section::after {
@@ -270,7 +271,7 @@ nav .nav-menu ul li a.nav-contact:hover {
 }
 
 .education-image .edu-img {
-  width: 650px;
+  width: 450px;
 }
 
 .education-detail {
@@ -281,9 +282,9 @@ nav .nav-menu ul li a.nav-contact:hover {
 }
 
 .education-detail h3 {
-  font-size: 44px;
+  font-size: 20px;
   font-weight: 500;
-  color: #000;
+  color: #742890;
 }
 
 .edu-text {
@@ -466,12 +467,12 @@ nav .nav-menu ul li a.nav-contact:hover {
 
 .card-content table tr td {
   padding: 6px 10px;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .card-title {
   margin: 0;
-  font-size: 24px;
+  font-size: 20px;
   color: #fff;
   font-weight: 700;
   text-align: center;
@@ -952,9 +953,9 @@ footer {
 .footer-title h1 {
   text-align: center;
   letter-spacing: 2px;
-  font-size: 50px;
+  font-size: 15px;
   color: var(--text-yellow);
-  font-family: "Dancing Script", cursive;
+  font-family: "Monaco", cursive;
 }
 
 .footer-title .footer-detail {
